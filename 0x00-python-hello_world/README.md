@@ -10,3 +10,4 @@
 9-Printings Python ANthem
 10-lINKING lISTS WIHT c
 11-Printing without using the print function instead importing a module
+12-Compiling a Python code with a python script
