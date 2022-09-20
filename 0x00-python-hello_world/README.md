@@ -8,4 +8,5 @@
 7-Indexing of strings
 8-More indexing of strings
 9-Printings Python ANthem
-10-lINKING lISTS WIHT c 
+10-lINKING lISTS WIHT c
+11-Printing without using the print function instead importing a module
