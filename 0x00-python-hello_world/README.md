@@ -4,4 +4,5 @@
 3-Printing with the f-string Formatter
 4-Printing a Floating Number using the format specifier
 5-printing a string three times 
-6-Concatenating two strings 
+6-Concatenating two strings
+7-Indexing of strings 
