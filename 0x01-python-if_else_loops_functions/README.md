@@ -5,3 +5,4 @@
 4-Printing Hexadecimal Numbers
 5-Printing Numbers in pattern
 6-Printing combination of two digits
+7-Checks if a letter is in lowercase
