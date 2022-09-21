@@ -8,3 +8,4 @@
 7-Checks if a letter is in lowercase
 8-Checking for alphabets
 9-a FUNCTION THAT PRINTS OUT THE LAST NUMER IN A SEQUENCE
+10-Adds two integer together
