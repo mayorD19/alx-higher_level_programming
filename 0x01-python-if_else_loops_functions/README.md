@@ -4,3 +4,4 @@
 3-Printing Alphabets without e and q
 4-Printing Hexadecimal Numbers
 5-Printing Numbers in pattern
+6-Printing combination of two digits
