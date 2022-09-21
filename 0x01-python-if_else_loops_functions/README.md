@@ -3,3 +3,4 @@
 2-printing the Ascii values in lowercase
 3-Printing Alphabets without e and q
 4-Printing Hexadecimal Numbers
+5-Printing Numbers in pattern
