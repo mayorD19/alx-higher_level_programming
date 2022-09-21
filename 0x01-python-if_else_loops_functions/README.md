@@ -7,3 +7,4 @@
 6-Printing combination of two digits
 7-Checks if a letter is in lowercase
 8-Checking for alphabets
+9-a FUNCTION THAT PRINTS OUT THE LAST NUMER IN A SEQUENCE
