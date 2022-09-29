@@ -12,3 +12,8 @@
 11-a function that returns a list with all values multiplied by 
 a number without using any loops.
 12-A function that prints Roman to Integer
+13-a function that returns the weighted average of 
+all integers tuple (<score>, <weight>)
+14- a function that computes the square value of all integers of a matrix using map
+15-a function that deletes keys with a specific value in a dictionary.
+16-Create two C functions that print some basic info about Python lists and Python bytes objects.
