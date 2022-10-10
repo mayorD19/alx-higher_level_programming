@@ -3,13 +3,12 @@
 list and raising or making an exception to it.
 """
 def safe_print_list(my_list=[], x=0):
-    d = 0
+    a = 0
     try:
         for i in range(x):
-            print(my_list[i], end ='')
-            d += 1
+            print(my_list[i], end='')
+            a += 1
     except IndexError:
         None
     print()
-    return d
-
+    return a
