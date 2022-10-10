@@ -6,3 +6,8 @@ README FOR ERROR AND EXCEPTION HANDLING
 4- A function that divides element by element 2 lists.
 5- A function that raises a type exception.
 6- A function that raises a name exception with a message
+7- A function that prints an integer.
+8- A function that executes a function safely.
+9- A funtction that Write the Python function def magic_calculation(a, b)
+10- A Function to create three C functions that print some basic info about
+ Python lists, Python bytes an Python float objects.
