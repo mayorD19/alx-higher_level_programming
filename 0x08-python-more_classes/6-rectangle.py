@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# 5-rectangle.py
+# 6-rectangle.py
 """Defines a Rectangle class."""
 
 
@@ -10,7 +10,6 @@ class Rectangle:
     """
 
     number_of_instances = 0
-
 
     def __init__(self, width=0, height=0):
         """Initialize a new Rectangle.
@@ -82,3 +81,4 @@ class Rectangle:
         """Print a message for every deletion of a Rectangle."""
         type(self).number_of_instances -= 1
         print("Bye rectangle...")
+
